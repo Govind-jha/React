@@ -1,9 +1,9 @@
-# React
+# React Getting Started
 Setting up dev environment for ReactJs. This is a basic skeleton project to start your react journey.
 
 Most of the depencies are already added to the package.json. Execute <code>npm install</code> in your project folder using any terminal [bash, cmd ...] to install the required dependencies.
 
-# Other dependencies 
+# Other Dependencies 
 There are a few pakages that are not included in the pacakge.json, and need to be installed explicitly.
 _Navigate to the project folder using cmd/shell and execute the folloeing commands,_
 
