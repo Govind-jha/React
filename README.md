@@ -15,3 +15,9 @@ _Navigate to the project folder using cmd/shell and execute the following comman
 <code>npm install babel-preset-react</code><br/>
 <code>npm install babel-preset-es2015</code>
 
+# Run The App
+
+This is pretty easy, navigate to the project folder using any terminal of your choice and run <code>npm start</code>.<br/>
+I have configured development server to run on port 8989, you can change it in webpack.config.js to run it on some other port.
+
+_Now, Go ahead and open http://localhost:8989/ in any browser of your choice to see your application running._
