@@ -1,4 +1,10 @@
-# React Getting Started
+# React Repository
+Repo for my react projects. Each branch of this repository contains a seperate project.
+
+# Index 
+  1. <a href= "https://github.com/Govind-jha/React/tree/getting-started"> Getting Started </a>
+
+# 1. React Getting Started
 Setting up dev environment for ReactJs. This is a basic skeleton project to start your react journey.
 
 Most of the depencies are already added to the package.json. Execute <code>npm install</code> in your project folder using any terminal [bash, cmd ...] to install the required dependencies.
